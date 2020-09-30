@@ -239,18 +239,6 @@
       "immutable": false,
       "group_name": "vm"
     }
-   # ,
-   # {
-   #   "name": "networks",
-   #   "type": "list",
-   #   "description": "Name of Networks to Attach",
-   #   "hidden": false,
-   #   "label": "Name of Networks to Attach",
-   #   "secured": false,
-   #   "required": true,
-   #   "immutable": false,
-   #   "group_name": "network"
-   # }
   ],
   "template_output_params": [
     {
